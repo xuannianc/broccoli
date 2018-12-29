@@ -1,1 +1,3 @@
 # broccoli
+
+## some python tricks
